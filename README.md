@@ -52,5 +52,5 @@ With the pipeline running, Supabase serves as the "Single Source of Truth." The 
 
 ## 🚀 How to Run
 1.  **n8n:** Import the `workflow.json` file provided in this repository.
-2.  **SQL Setup:** Execute the table creation scripts located in the `/SQL` folder.
+2.  **SQL Setup:** n8n to supabase
 3.  **Connection:** Link your preferred BI tool (Power BI, Tableau, or Quadratic) to the Supabase PostgreSQL credentials.
