@@ -32,7 +32,7 @@ I implemented structured tables to track **On-Time** and **In-Full (OTIF)** metr
 | :--- | :--- |
 | **Order Line Fact** | ![Order Line Table](Assets/orderlinefact%20table%20create%20in%20supabase.png) |
 | **Aggregate Fact** | ![Aggregate Table](Assets/aggregate%20fact%20table%20creation%20in%20supabase.png) |
-| **Target Fact** |![target table creation](Assets/target orders fact table creation in supabase.png) |
+| **Target Fact** |![target table creation](Assets/target%20orders%20fact%20table%20creation%20in%20supabase.png) |
 
 ---
 
