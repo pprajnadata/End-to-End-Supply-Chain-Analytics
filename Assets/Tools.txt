@@ -1,0 +1,5 @@
+n8n
+(excel to json)
+saved to PostgreSQL (supabase)
+created tables in PostgreSQL 
+connection to quadratic AI
